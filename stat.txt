@@ -1,0 +1,40 @@
+journal: ноя 24 23:53:09 userpc snapd-desktop-i[31465]: Detected new session 468 at /org/freedesktop/login1/session/_3468
+
+journal: ноя 24 23:53:09 userpc snapd-desktop-i[31465]: Detected new session 470 at /org/freedesktop/login1/session/_3470
+
+journal: ноя 24 23:53:13 userpc snapd-desktop-i[31465]: Detected new session 481 at /org/freedesktop/login1/session/_3481
+
+journal: ноя 24 23:53:14 userpc snapd-desktop-i[31465]: Detected new session 484 at /org/freedesktop/login1/session/_3484
+
+journal: ноя 24 23:53:14 userpc snapd-desktop-i[31465]: Detected new session 486 at /org/freedesktop/login1/session/_3486
+
+journal: ноя 24 23:53:15 userpc snapd-desktop-i[31465]: Detected new session 488 at /org/freedesktop/login1/session/_3488
+
+journal: ноя 24 23:53:16 userpc snapd-desktop-i[31465]: Detected new session 490 at /org/freedesktop/login1/session/_3490
+
+journal: ноя 24 23:53:16 userpc snapd-desktop-i[31465]: Detected new session 492 at /org/freedesktop/login1/session/_3492
+
+journal: ноя 24 23:53:19 userpc snapd-desktop-i[31465]: Detected new session 502 at /org/freedesktop/login1/session/_3502
+
+journal: ноя 24 23:53:21 userpc snapd-desktop-i[31465]: Detected new session 509 at /org/freedesktop/login1/session/_3509
+
+journal: ноя 25 00:23:39 userpc snapd-desktop-i[35591]: Detected new session 523 at /org/freedesktop/login1/session/_3523
+
+journal: ноя 25 00:23:40 userpc snapd-desktop-i[35591]: Detected new session 525 at /org/freedesktop/login1/session/_3525
+
+journal: ноя 25 00:23:44 userpc snapd-desktop-i[35591]: Detected new session 536 at /org/freedesktop/login1/session/_3536
+
+journal: ноя 25 00:23:44 userpc snapd-desktop-i[35591]: Detected new session 539 at /org/freedesktop/login1/session/_3539
+
+journal: ноя 25 00:23:45 userpc snapd-desktop-i[35591]: Detected new session 541 at /org/freedesktop/login1/session/_3541
+
+journal: ноя 25 00:23:46 userpc snapd-desktop-i[35591]: Detected new session 543 at /org/freedesktop/login1/session/_3543
+
+journal: ноя 25 00:23:46 userpc snapd-desktop-i[35591]: Detected new session 545 at /org/freedesktop/login1/session/_3545
+
+journal: ноя 25 00:23:47 userpc snapd-desktop-i[35591]: Detected new session 547 at /org/freedesktop/login1/session/_3547
+
+journal: ноя 25 00:23:50 userpc snapd-desktop-i[35591]: Detected new session 557 at /org/freedesktop/login1/session/_3557
+
+journal: ноя 25 00:23:53 userpc snapd-desktop-i[35591]: Detected new session 564 at /org/freedesktop/login1/session/_3564
+

@@ -1,0 +1,8 @@
+folder_in: /home/user2/txt
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+count: 3
+bs: 1M
+type: zip
+
